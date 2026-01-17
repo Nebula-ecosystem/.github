@@ -13,7 +13,7 @@
 In this organization, we follow a strict development philosophy: **Total Independence.** * **No Third-Party Crates:** We do not use external frameworks or utility libraries. 
 * **Built from Scratch:** We reimplement protocols (Kademlia), engines (HTML/CSS/JS), and databases (B-Trees) ourselves.
 * **Fully Auditable Stack:** By removing the "black box" of dependencies, we provide a 100% transparent and secure environment.
-* **Hardware-Level Control:** Using our custom **Reactor** and **Cryptography** units, we optimize every CPU cycle specifically for Nebula.
+* **Hardware-Level Control:** Using our custom **Cadentis** and **Cryptal** units, we optimize every CPU cycle specifically for Nebula.
 
 ---
 
